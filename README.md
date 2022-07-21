@@ -1,4 +1,4 @@
-Iterative Improvement on Different Topologies under the Effect of Heterogeneous Data with Decentralized SGD 
+## Iterative Improvement on Different Topologies under the Effect of Heterogeneous Data with Decentralized SGD 
 
 ## Description
 Our code is largely notebook based to show plots and results relayed in the report. 
