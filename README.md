@@ -1,4 +1,12 @@
-## Iterative Improvement on Different Topologies under the Effect of Heterogeneous Data with Decentralized SGD 
+# Iterative Improvement on Different Topologies under the Effect of Heterogeneous Data with Decentralized SGD 
+
+| Student's name | Institution |
+| -------------- | ------ |
+| Chun Hei Michael Chan | École polytechnique fédérale de Lausanne (EPFL) |
+| Bohan Wang | École polytechnique fédérale de Lausanne (EPFL) |
+| Qi Yi| École polytechnique fédérale de Lausanne (EPFL) |
+
+This project can provide an insight into the effect of Heterogeneous Data on the topology of Decentralized SGD.
 
 ## Description
 Our code is largely notebook based to show plots and results relayed in the report. 
