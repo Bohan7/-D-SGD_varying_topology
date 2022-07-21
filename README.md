@@ -6,7 +6,7 @@
 | Bohan Wang | École polytechnique fédérale de Lausanne (EPFL) |
 | Qi Yi| École polytechnique fédérale de Lausanne (EPFL) |
 
-This project can provide an insight into the effect of Heterogeneous Data on the topology of Decentralized SGD. The results and discussion of the project are demonstrated in [Report](https://github.com/Bohan7/D-SGD_varying_topology/blob/main/Iterative_Improvement_on_Different_Topologies_under_the_Effect_of_Heterogeneous_Data_with_Decentralized_SGD.pdf).
+This project can provide an insight into the effect of Heterogeneous Data on the topology of Decentralized SGD. The results and discussion of the project are demonstrated in the [report](https://github.com/Bohan7/D-SGD_varying_topology/blob/main/Iterative_Improvement_on_Different_Topologies_under_the_Effect_of_Heterogeneous_Data_with_Decentralized_SGD.pdf).
 
 ## Description
 Our code is largely notebook based to show plots and results relayed in the report. 
